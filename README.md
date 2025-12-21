@@ -5,7 +5,7 @@
 </p>
 
 
----## About Me
+## About Me
 
 Aloha! I’m Srihari, a software engineer and problem solver who enjoys building scalable systems and working with generative AI. I earned my Master’s degree in Computer Science from Portland State University, where my focus was software engineering and large language models.
 During my time at PSU, I built a SaaS survey platform with multilingual support, and automated tests that achieved 95% code coverage, cutting post-release bugs by nearly 50%. I also modernized HP’s ACE Analytics platform, migrating it from a monolithic architecture to microservices and designing.
