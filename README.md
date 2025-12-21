@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Srihari!</h1>
 <p align="center">
-  Backend Engineer • Cloud • APIs • Distributed Systems • GenAI
+  Software AI Engineer 
 </p>
 
 
@@ -18,7 +18,7 @@ I enjoy tackling complex problems with curiosity and persistence, and I’m exci
 ## Technologies & Tools
 **Backend:** Java, Python, Flask, FastAPI  
 **Data:** PostgreSQL, MySQL, Redis, SQL, vector DBs (Chroma/Pinecone)  
-**Cloud/DevOps:** AWS,GCP, CI/CD  
+**Cloud/DevOps:** AWS,GCP
 
 ---
 
